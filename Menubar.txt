@@ -1,0 +1,11 @@
+Menu bar :
+- Coffee
+	.how to brew
+	. 
+- Menu
+	.baverage
+	.food
+- Coffeehouse (Store)
+- Promo
+- About us
+	.mission and value
